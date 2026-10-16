@@ -177,12 +177,12 @@ streamlit run app.py
    - A **video** starts playing immediately while it is prepared in the background.
    - A **playlist** (pasted, or found by searching e.g. `python playlist`, or by setting *Show me* to Playlists) opens a list of its videos. Click **Learn** on one, or **Learn the first N videos**.
 2. Watch the progress bar on the left. You do **not** need to wait for it to finish: once the first minutes are indexed, the tutor shows *Still indexing — ask about the first mm:ss now*. Study notes and quiz unlock when processing completes. Use **Cancel** to stop a job.
-3. In **💬 Ask AI Tutor**, ask a question about the video.
+3. In ** Ask AI Tutor**, ask a question about the video.
 4. Read the streamed answer. Use the citation buttons under it to jump to the relevant moment.
 5. Ask a follow-up such as **“explain that more simply.”**
-6. Open **📑 Study Notes** to create the summary and chapters (after processing finishes).
-7. Open **📝 Quiz Me** to create MCQs. Use **Review at mm:ss** after answering.
-8. Use **My library** to reopen or delete videos. A ⏳ marks a video that is still processing or was interrupted; opening it resumes preparation.
+6. Open ** Study Notes** to create the summary and chapters (after processing finishes).
+7. Open ** Quiz Me** to create MCQs. Use **Review at mm:ss** after answering.
+8. Use **My library** to reopen or delete videos. A timer marks a video that is still processing or was interrupted; opening it resumes preparation.
 
 ## API
 
