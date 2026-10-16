@@ -2,6 +2,8 @@
 
 Turn a YouTube video into an interactive tutor. Paste a video link or search for a topic, then ask questions, get answers grounded in the video with numbered citations, jump to the cited moment, generate chapters and a summary, and test yourself with a quiz.
 
+APP LINK -  https://youtubelearningcopilot-d8gshppkmbgd6vhmbdp2lk.streamlit.app/
+
 ## Why this project exists
 
 Long learning videos are useful, but finding one exact explanation again can be slow. This app prepares the video's transcript once, stores small timestamped chunks in a vector database, and retrieves the most relevant chunks whenever you ask a question. The LLM is told to answer only from those retrieved excerpts.
@@ -82,7 +84,7 @@ Groq LLM: answer only from these excerpts
 Streamed answer with citations such as [1]
    │
    ▼
-Click ▶ [1] 02:35 to jump the YouTube player
+Click  [1] 02:35 to jump the YouTube player
 ```
 
 ## Tools used and why
