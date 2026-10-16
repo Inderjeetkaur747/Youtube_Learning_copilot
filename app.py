@@ -19,7 +19,7 @@ from src.youtube_utils import (
 
 st.set_page_config(
     page_title="YouTube Learning Copilot",
-    page_icon="🎓",
+    # page_icon="🎓",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
