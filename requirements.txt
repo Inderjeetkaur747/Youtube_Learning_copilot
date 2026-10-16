@@ -1,0 +1,10 @@
+streamlit>=1.39
+yt-dlp>=2025.1.15
+faster-whisper>=1.1.0
+sentence-transformers>=3.2.1
+qdrant-client>=1.12.1
+groq>=0.13.0
+python-dotenv>=1.0.1
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+httpx>=0.27.2
